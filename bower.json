@@ -1,0 +1,21 @@
+{
+  "name": "angular-custom-seed",
+  "description": "Customer starter for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Threefields/angular-custom-seed",
+  "authors": [
+    "Stefanos Trialonis <stefanos@wearhealth.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "bootstrap": "~3.3.7",
+    "font-awesome": "~4.7.0",
+    "ui-router": "~0.2.18",
+    "angular-jwt": "~0.0.4",
+    "a0-angular-storage": "~0.0.6",
+    "typekit-load": "~0.1.2",
+    "angular-ui-router": "~0.2.18"
+  }
+}
