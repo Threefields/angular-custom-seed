@@ -14,8 +14,8 @@
     "font-awesome": "~4.7.0",
     "ui-router": "~0.2.18",
     "angular-jwt": "~0.0.4",
-    "a0-angular-storage": "~0.0.6",
     "typekit-load": "~0.1.2",
-    "angular-ui-router": "~0.2.18"
+    "angular-ui-router": "~0.2.18",
+    "angular-local-storage": "~0.5.2"
   }
 }
