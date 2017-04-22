@@ -19,7 +19,7 @@ angular.module('sample.signup', [
       method: 'POST',
       data: $scope.user
     }).then(function(response) {
-      localStorageService.set('jwt', response.data.id_token);
+      localStorageService.set('jwt', response.data.access_token);
       $state.go('home');
     }, function(error) {
       alert(error.data);
